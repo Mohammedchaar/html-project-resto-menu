@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html><a name="Contact us "> 
+       <h1> Direct Contact:</h1></a>
+    
+        <form method="post">
+            <label>Date:</label>
+           <br>
+           <input type="date">
+           <br>
+           <br>
+            <label> Full Name:</label>
+            <br>
+            <input type="text" required>
+            <br>
+            <label>E-mail acount:</label>
+            <br>
+            <input type="text" placeholder="test@gmail.com" required>
+            <br>
+            <label>Phone Number:</label> 
+            <br>
+           <input type="tel">
+           <br>
+           <label>Comment:</label>
+           <br>
+           <textarea name="comment" ></textarea>
+            <br>
+            <br>
+            <input type="submit">
+        </form>
+    </body>
+    </html>
